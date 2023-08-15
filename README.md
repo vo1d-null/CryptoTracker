@@ -43,4 +43,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 - 1.wxPython: GUI library for Python.
-- 2.API - Data provided by CoinGecko
+- 2.API - Data provided by CoinGecko.
