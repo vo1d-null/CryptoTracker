@@ -5,14 +5,12 @@ Simple Crypto Tracker by vo1d.null
 
 ## Overview
 
-The Crypto Price Tracker is a simple yet powerful desktop application that allows users to monitor real-time prices of various cryptocurrencies. 
-It provides a user-friendly interface for tracking cryptocurrency prices, offering a seamless experience for both beginners and experienced users.
-
+The Crypto Price Tracker is a simple desktop application that allows users to monitor real-time prices of various cryptocurrencies. 
+It provides a user-friendly interface for tracking cryptocurrency prices.
 ## Features
 
 - **Real-Time Price Updates:** Stay up-to-date with real-time price data for BTC,ETH,XRP
-- **User-Friendly Interface:** There is an update button.It updates every 5 mins due to free public API :).
-- **Customization Options:** Personalize your app experience by choosing themes and base currency.
+- **User-Friendly Interface:** There is an update button.It updates every 5 minutes due to free public API :).
 - **Responsive Design:** The app works smoothly on different screen sizes and orientations.
 
 ## Installation
